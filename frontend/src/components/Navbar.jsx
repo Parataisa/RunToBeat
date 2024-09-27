@@ -24,6 +24,9 @@ const Navbar = () => {
                 <ListItem>
                     <Link to="/playlists">Playlists</Link>
                 </ListItem>
+                <ListItem>
+                    <Link to="/playlistForm">Add Playlist</Link>
+                </ListItem>
             </List>
         </Box>
     )
